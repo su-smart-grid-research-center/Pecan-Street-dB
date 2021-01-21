@@ -19,7 +19,7 @@ There are plenty of ways to retrieve the data from the database, either exported
 Please view miscellaneous repos which belong to https://github.com/su-smart-grid-research-center/ or https://github.com/Pecan-Street to see some other examples of managing and/or exploring the data.
 
 ## Help
-For assistance, email, message, etc.:
-For SU SGRC git org management: pjpriole@syr.edu, https://github.com/pjsandwich
-For Pecan Street data: smock@pecanstreet.org, dataport@pecanstreet.org, https://www.pecanstreet.org/dataport/, https://github.com/Pecan-Street, https://github.com/SMock123
-For SU Pecan Street dB: ischoolit@ot.syr.edu, radresch@syr.edu
+### For assistance, email, message, etc.:
+#### For SU SGRC git org management: pjpriole@syr.edu, https://github.com/pjsandwich
+#### For Pecan Street data: smock@pecanstreet.org, dataport@pecanstreet.org, https://www.pecanstreet.org/dataport/, https://github.com/Pecan-Street, https://github.com/SMock123
+#### For SU Pecan Street dB: ischoolit@ot.syr.edu, radresch@syr.edu
